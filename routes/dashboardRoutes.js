@@ -20,6 +20,7 @@ dashboardRoutes.get("/:id", (req, res) => {
     res.json({
       id: selected.id,
       name: selected.name,
+      username: selected.username,
       address: selected.address,
       comfort: selected.comfort,
       role: selected.role,
