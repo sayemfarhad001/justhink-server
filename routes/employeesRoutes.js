@@ -1,5 +1,5 @@
 const express = require("express");
-const dashboardRoutes = express.Router();
+const employeesRoutes = express.Router();
 const fs = require("fs");
 const userList = "data/users.json";
 
@@ -9,11 +9,11 @@ const pullData = (jsonPath) => {
     return data;
 };
 
-dashboardRoutes.get("/", (_, res) => {
+employeesRoutes.get("/", (_, res) => {
     res.json(pullData(userList));
 });
 
-dashboardRoutes.get("/:id", (req, res) => {
+employeesRoutes.get("/:id", (req, res) => {
     const fullUsersData = pullData(userList);
     const selected = fullUsersData.find((item) => item.id === req.params.id);
   
@@ -37,4 +37,4 @@ dashboardRoutes.get("/:id", (req, res) => {
 });
 
 
-module.exports = dashboardRoutes;
+module.exports = employeesRoutes;

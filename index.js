@@ -8,10 +8,12 @@ app.use(cors({ origin: "*" }));
 app.use(express.json());
 
 const dRoutes = require("./routes/dashboardRoutes");
+const eRoutes = require("./routes/employeesRoutes");
 // const rRoutes = require("./routes/reservationRoutes");
 // const tRoutes = require("./routes/tableRoutes");
 
 app.use("/dashboard", dRoutes);
+app.use("/employees", eRoutes);
 
 // app.use("/reservations", rRoutes);
 // app.use("/tables", tRoutes);
