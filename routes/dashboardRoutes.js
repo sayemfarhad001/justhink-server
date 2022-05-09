@@ -18,18 +18,19 @@ dashboardRoutes.get("/:id", (req, res) => {
     const selected = fullUsersData.find((item) => item.id === req.params.id);
   
     res.json({
-      id: selected.id,
-      name: selected.name,
-      address: selected.address,
-      comfort: selected.comfort,
-      role: selected.role,
-      skills: selected.skills,
-      office: selected.office,
-      city: selected.city,
-      country: selected.country,
-      phone: selected.phone,
-      email: selected.email,
-      calendar: selected.calendar,
+        id: selected.id,
+        name: selected.name,
+        username: selected.username,
+        address: selected.address,
+        comfort: selected.comfort,
+        role: selected.role,
+        skills: selected.skills,
+        office: selected.office,
+        city: selected.city,
+        country: selected.country,
+        phone: selected.phone,
+        email: selected.email,
+        calendar: selected.calendar,
     });
 });
 

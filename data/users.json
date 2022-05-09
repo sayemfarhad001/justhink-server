@@ -1,58 +1,156 @@
 [
-    {
-      "id": "2922c286-16cd-4d43-ab98-c79f698aeab0",
-      "name": "Jack Morgan",
-      "address": "503 Broadway",
-      "comfort": "red",
-      "role": "CEO",
-      "skills": "Leadership, Emotional Behaviour",
-      "office": [
+  {
+    "id": "b03e1fba-d006-4462-88d8-2adc8ddeaaf9",
+    "name": "Ayman Limis",
+    "username": "ayman-limis",
+    "address": "12 Pearl Street SW",
+    "comfort": "#f76268",
+    "role": "Software Engineer",
+    "skills": "HTML",
+    "office": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "city": "Toronto",
+    "country": "Canada",
+    "phone": "+1 (464) 123-4567",
+    "email": "ayman@industry.com",
+    "calendar": [
         "",
-        "#183B54",
-        "#183B54",
-        "#183B54",
-        "#183B54",
+        "",
+        "",
+        "Meeting with Jack",
+        "Lunch",
+        "",
         "",
         ""
-      ],
-      "city": "New York",
-      "country": "USA",
-      "phone": "+1 (646) 123-1234",
-      "email": "paujla@industry.com",
-      "calendar": [
-        "Meeting with Parmin",
+    ]
+  },
+  {
+    "id": "1685493f-d287-47bd-98af-99a78782b259",
+    "name": "Caroline Johnson",
+    "username": "caroline-johnson",
+    "address": "12 Pearl Street SW",
+    "comfort": "#99d18b",
+    "role": "Sales",
+    "skills": "Excel",
+    "office": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "city": "Toronto",
+    "country": "Canada",
+    "phone": "+1 (464) 123-7894",
+    "email": "caroline@industry.com",
+    "calendar": [
         "",
         "",
+        "",
+        "Meeting with Jack",
+        "Lunch",
+        "",
+        "",
+        ""
+    ]
+  },
+  {
+    "id": "1e6657a3-bcce-4465-9f4f-ce6954ffd5a6",
+    "name": "Kamden Newt",
+    "username": "mark",
+    "address": "12 Pearl Street SW",
+    "comfort": "#eada7b",
+    "role": "Product Designer",
+    "skills": "Affinity Mapping",
+    "office": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "city": "Toronto",
+    "country": "Canada",
+    "phone": "+1 (464) 123-8945",
+    "email": "kamden@industry.com",
+    "calendar": [
+        "Meeting with Folks",
+        "",
+        "Meeting with CEO",
         "",
         "Lunch",
-        "Meeting with Nick",
+        "",
         "",
         ""
-      ]
-    },
+    ]
+  },
+  {
+    "id": "977f9104-fa56-4adf-9ed8-0b94d9e7dca6",
+    "name": "Sage Caddel",
+    "username": "sage-caddel",
+    "address": "12 Pearl Street SW",
+    "comfort": "#eada7b",
+    "role": "Account Executive",
+    "skills": "Key Note",
+    "office": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "city": "Toronto",
+    "country": "Canada",
+    "phone": "+1 (464) 123-9456",
+    "email": "sage@industry.com",
+    "calendar": [
+        "",
+        "",
+        "",
+        "Meeting with Peterson",
+        "Lunch",
+        "",
+        "",
+        ""
+    ]
+  },
     {
         "id": "5bf7bd6c-2b16-4129-bddc-9d37ff8539e9",
-        "name": "Nathan Philips",
-        "address": "33 Pearl Street SW",
-        "comfort": "green",
-        "role": "HR Manager",
-        "skills": "Hiring",
+        "name": "Ada Mcbride",
+        "username": "ada-mcbride",
+        "address": "55 McDonalds St",
+        "comfort": "#99d18b",
+        "role": "Junior Data Scientist",
+        "skills": "Tensorflow",
         "office": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "#183B54",
-          "#183B54"
+          false,
+          false,
+          true,
+          false,
+          false,
+          true,
+          true
         ],
         "city": "Toronto",
         "country": "Canada",
-        "phone": "+1 (646) 123-1334",
-        "email": "glyon@industry.com",
+        "phone": "+1 (646) 123-6123",
+        "email": "ada@industry.com",
         "calendar": [
             "",
-            "Meeting with Paul",
+            "Meeting with Jignesh",
             "",
             "",
             "Lunch",
@@ -60,5 +158,101 @@
             "",
             ""
         ]
-    }
+  },
+  {
+    "id": "402bac92-50b3-4c9c-8324-de2faeb49ce4",
+    "name": "Dan Peterson",
+    "username": "dan-peterson",
+    "address": "16 Stocks Road",
+    "comfort": "#f76268",
+    "role": "Sales Manager",
+    "skills": "Story Telling",
+    "office": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "city": "Toronto",
+    "country": "Canada",
+    "phone": "+1 (464) 123-3216",
+    "email": "dan@industry.com",
+    "calendar": [
+        "",
+        "",
+        "",
+        "Meeting with Jack",
+        "Lunch",
+        "",
+        "",
+        ""
+    ]
+  },
+ {
+    "id": "861ef3ba-3d39-4643-8333-3f18c7c163bf",
+    "name": "Waylon Mccarthy",
+    "username": "waylon-mccarthy",
+    "address": "12 Pearl Street SW",
+    "comfort": "#99d18b",
+    "role": "IT Analyst",
+    "skills": "Hiring",
+    "office": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "city": "Toronto",
+    "country": "Canada",
+    "phone": "+1 (464) 123-2165",
+    "email": "waylon@industry.com",
+    "calendar": [
+        "",
+        "",
+        "",
+        "Meeting with Aprna",
+        "Lunch",
+        "",
+        "",
+        ""
+    ]
+  },     
+  {
+    "id": "983fa632-2e23-43fc-a73f-873d3fe5ca5e",
+    "name": "Aprna Patel",
+    "username": "aprna-patel",
+    "address": "50 Quebec Avenue",
+    "comfort": "#eada7b",
+    "role": "Senior UX Designer",
+    "skills": "Wireframing",
+    "office": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "city": "New York",
+    "country": "USA",
+    "phone": "+1 (646) 123-5612",
+    "email": "aprna@industry.com",
+    "calendar": [
+      "Meeting with Parmin",
+      "",
+      "",
+      "",
+      "Lunch",
+      "Meeting with Nigel",
+      "",
+      "Exit interview"
+    ]
+  }
 ]
