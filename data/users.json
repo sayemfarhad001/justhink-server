@@ -79,6 +79,18 @@
         "",
         "",
         ""
+    ],
+    "tasks": [
+      {
+        "type": "coding",
+        "header": "Create new landing page for products division",
+        "deadline": "May 31st"
+      },
+      {
+        "type": "design",
+        "header": "Developing new UI library",
+        "deadline": "June 10th"
+      }
     ]
   },
   {
@@ -114,6 +126,18 @@
         "",
         "",
         ""
+    ],
+    "tasks": [
+      {
+        "type": "coding",
+        "header": "Create new landing page for products division",
+        "deadline": "May 31st"
+      },
+      {
+        "type": "design",
+        "header": "Developing new UI library",
+        "deadline": "June 10th"
+      }
     ]
   },
   {
@@ -149,6 +173,18 @@
         "",
         "",
         ""
+    ],
+    "tasks": [
+      {
+        "type": "coding",
+        "header": "Create new landing page for products division",
+        "deadline": "May 31st"
+      },
+      {
+        "type": "design",
+        "header": "Developing new UI library",
+        "deadline": "June 10th"
+      }
     ]
   },
   {
@@ -184,6 +220,18 @@
         "",
         "",
         ""
+    ],
+    "tasks": [
+      {
+        "type": "coding",
+        "header": "Create new landing page for products division",
+        "deadline": "May 31st"
+      },
+      {
+        "type": "design",
+        "header": "Developing new UI library",
+        "deadline": "June 10th"
+      }
     ]
   },
     {
@@ -219,7 +267,19 @@
             "",
             "",
             ""
-        ]
+        ],
+    "tasks": [
+      {
+        "type": "coding",
+        "header": "Create new landing page for products division",
+        "deadline": "May 31st"
+      },
+      {
+        "type": "design",
+        "header": "Developing new UI library",
+        "deadline": "June 10th"
+      }
+    ]
   },
   {
     "id": "402bac92-50b3-4c9c-8324-de2faeb49ce4",
@@ -254,6 +314,18 @@
         "",
         "",
         ""
+    ],
+    "tasks": [
+      {
+        "type": "coding",
+        "header": "Create new landing page for products division",
+        "deadline": "May 31st"
+      },
+      {
+        "type": "design",
+        "header": "Developing new UI library",
+        "deadline": "June 10th"
+      }
     ]
   },
  {
@@ -289,6 +361,18 @@
         "",
         "",
         ""
+    ],
+    "tasks": [
+      {
+        "type": "coding",
+        "header": "Create new landing page for products division",
+        "deadline": "May 31st"
+      },
+      {
+        "type": "design",
+        "header": "Developing new UI library",
+        "deadline": "June 10th"
+      }
     ]
   },     
   {
@@ -324,6 +408,18 @@
       "Meeting",
       "",
       "Exit interview"
+    ],
+    "tasks": [
+      {
+        "type": "coding",
+        "header": "Create new landing page for products division",
+        "deadline": "May 31st"
+      },
+      {
+        "type": "design",
+        "header": "Developing new UI library",
+        "deadline": "June 10th"
+      }
     ]
   }
 ]
