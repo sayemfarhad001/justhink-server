@@ -1,5 +1,52 @@
 [
   {
+    "id": "98b44e93-0a07-4ddf-91f0-08b775798097",
+    "name": "Mark Devon",
+    "username": "mark-devon",
+    "status": "Online",
+    "workfrom": "home",
+    "address": "595 Keele St",
+    "comfort": "#f76268",
+    "role": "CEO",
+    "skills": "Leadership",
+    "allskills": "Leadership, Training, Emotional Behaviour",
+    "office": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "city": "Toronto",
+    "country": "Canada",
+    "phone": "+1 (464) 321-4568",
+    "email": "mark@industry.com",
+    "calendar": [
+        "Meeting",
+        "Meeting",
+        "Meeting",
+        "Meeting",
+        "Lunch",
+        "Meeting",
+        "Meeting",
+        "Meeting"
+    ],
+    "tasks": [
+      {
+        "type": "coding",
+        "header": "Create new landing page for products division",
+        "deadline": "May 31st"
+      },
+      {
+        "type": "design",
+        "header": "Developing new UI library",
+        "deadline": "June 10th"
+      }
+    ]
+  },
+  {
     "id": "b03e1fba-d006-4462-88d8-2adc8ddeaaf9",
     "name": "Ayman Limis",
     "username": "ayman-limis",
@@ -9,6 +56,7 @@
     "comfort": "#f76268",
     "role": "Software Engineer",
     "skills": "HTML",
+    "allskills": "HTML, CSS, React, Jquery, SQL",
     "office": [
       false,
       true,
@@ -26,7 +74,7 @@
         "",
         "",
         "",
-        "Meeting with Jack",
+        "Meeting",
         "Lunch",
         "",
         "",
@@ -43,6 +91,7 @@
     "comfort": "#99d18b",
     "role": "Sales",
     "skills": "Excel",
+    "allskills": "Excel, Ms Word, Marketing, Presentation",
     "office": [
       false,
       false,
@@ -60,7 +109,7 @@
         "",
         "",
         "",
-        "Meeting with Jack",
+        "Meeting",
         "Lunch",
         "",
         "",
@@ -70,13 +119,14 @@
   {
     "id": "1e6657a3-bcce-4465-9f4f-ce6954ffd5a6",
     "name": "Kamden Newt",
-    "username": "mark",
+    "username": "kamden-newt",
     "status": "In Meeting",
     "workfrom": "office",
     "address": "12 Pearl Street SW",
     "comfort": "#eada7b",
     "role": "Product Designer",
     "skills": "Affinity Mapping",
+    "allskills": "Affinity Mapping, Craft, Product Thinking",
     "office": [
       false,
       false,
@@ -91,9 +141,9 @@
     "phone": "+1 (464) 123-8945",
     "email": "kamden@industry.com",
     "calendar": [
-        "Meeting with Folks",
+        "Meeting",
         "",
-        "Meeting with CEO",
+        "Meeting",
         "",
         "Lunch",
         "",
@@ -111,6 +161,7 @@
     "comfort": "#eada7b",
     "role": "Account Executive",
     "skills": "Key Note",
+    "allskills": "Key Note, Communication, Organization, Negotiation",
     "office": [
       false,
       false,
@@ -128,7 +179,7 @@
         "",
         "",
         "",
-        "Meeting with Peterson",
+        "Meeting",
         "Lunch",
         "",
         "",
@@ -145,6 +196,7 @@
         "comfort": "#99d18b",
         "role": "Junior Data Scientist",
         "skills": "Tensorflow",
+        "allskills": "Tensorflow, Data Wrangling, Data Visualization, Cloud Computing",
         "office": [
           false,
           false,
@@ -160,7 +212,7 @@
         "email": "ada@industry.com",
         "calendar": [
             "",
-            "Meeting with Jignesh",
+            "Meeting",
             "",
             "",
             "Lunch",
@@ -179,6 +231,7 @@
     "comfort": "#f76268",
     "role": "Sales Manager",
     "skills": "Story Telling",
+    "allskills": "Story Telling, Strategic Planning, Delegation",
     "office": [
       false,
       false,
@@ -196,7 +249,7 @@
         "",
         "",
         "",
-        "Meeting with Jack",
+        "Meeting",
         "Lunch",
         "",
         "",
@@ -213,6 +266,7 @@
     "comfort": "#99d18b",
     "role": "IT Analyst",
     "skills": "Hiring",
+    "allskills": "Hiring, Project management, Problem-solving",
     "office": [
       false,
       false,
@@ -230,7 +284,7 @@
         "",
         "",
         "",
-        "Meeting with Aprna",
+        "Meeting",
         "Lunch",
         "",
         "",
@@ -247,6 +301,7 @@
     "comfort": "#eada7b",
     "role": "Senior UX Designer",
     "skills": "Wireframing",
+    "allskills": "Wireframing, Prototyping, Information Architecture, Research",
     "office": [
       false,
       true,
@@ -261,12 +316,12 @@
     "phone": "+1 (646) 123-5612",
     "email": "aprna@industry.com",
     "calendar": [
-      "Meeting with Parmin",
+      "Meeting",
       "",
       "",
       "",
       "Lunch",
-      "Meeting with Nigel",
+      "Meeting",
       "",
       "Exit interview"
     ]
