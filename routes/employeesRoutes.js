@@ -27,12 +27,15 @@ employeesRoutes.get("/:id", (req, res) => {
         comfort: selected.comfort,
         role: selected.role,
         skills: selected.skills,
+        allskills: selected.allskills,
         office: selected.office,
         city: selected.city,
         country: selected.country,
         phone: selected.phone,
         email: selected.email,
         calendar: selected.calendar,
+        tasks: selected.tasks
+        
     });
 });
 
